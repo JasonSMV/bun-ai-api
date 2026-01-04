@@ -9,6 +9,7 @@ const services: AIService[] = [
   // OpenRouter
   // otro servicio incluso local
 ]
+
 let currentServiceIndex = 0;
 
 function getNextService() {
